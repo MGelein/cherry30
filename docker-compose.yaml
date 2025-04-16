@@ -1,0 +1,7 @@
+version: "3"
+services:
+  cherry30:
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - 3000:80
