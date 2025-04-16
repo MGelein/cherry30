@@ -19,7 +19,7 @@ WX3NW;Een vies slot soms onder je billen beschermt mij
 IXRA3;Ik droeg je gewicht al tijdens het eerste kado
 AAZYG;Een blije kers op het internet, wat een *concept*...
 F2549;welke datum (dd-mm) is deze foto genomen?;hb.jpg
-0F6XI;Op de noordpool is het koud plassen, maar worden bijna nooit spullen weggegooid
+15-08;Op de noordpool is het koud plassen, maar worden bijna nooit spullen weggegooid
 D2B7X;Van de noordpool naar de bron van alle warmte
 D34NU;Een beroemde driehoek waar alles in kwijt raakt
 7LNVU;Ik vertel je wat je niet wilt weten en vul deze formule van Newton aan: F = ? x a
