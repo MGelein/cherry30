@@ -13,7 +13,7 @@ WJ2YJ;Ik wacht trillend tot je komt
 TD30K;Rood wit blauw beschermde Mees zijn hoofd
 WX3NW;Een vies slot soms onder je billen beschermt mij
 3L8LJ;Hier kusten wij voor het eerst (LAT,LONG, 3 cijfers achter de komma)
-52.157,4.483;De kleinste van de drie word ik bijna nooit gebruikt. Maar ik voed je net zo graag als de rest
+52.157,4.483;Als ruwste claim ik soms wat bloed, maar zonder mij maak je geen pizza
 9E6CI;Het gereedschap van een prinses is varierend van een dolk tot een flintlock
 3B6GK;Diep in de Dari woestijn begraven, onder lagen zand
 IXRA3;Ik droeg je gewicht al tijdens het eerste kado
@@ -21,7 +21,7 @@ AAZYG;Een blije kers op het internet, wat een *concept*...
 F2549;welke datum (dd-mm) is deze foto genomen?;hb.jpg
 15-08;Op de noordpool is het koud plassen, maar worden bijna nooit spullen weggegooid
 D2B7X;Van de noordpool naar de bron van alle warmte
-D34NU;Een beroemde driehoek waar alles in kwijt raakt
+D34NU;Een beroemde driehoek waar alles in kwijt raakt, daar leef ik achter een derde deur
 7LNVU;Ik vertel je wat je niet wilt weten en vul deze formule van Newton aan: F = ? x a
 Q7OC3;Hoe heet de plek waar deze foto is gemaakt?;sb1.jpg|sb2.jpg|sb3.jpg|sb4.jpg
 WANNETAL;Ik krijg bijna een nicotineverslaving hier...
