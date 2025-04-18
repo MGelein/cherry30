@@ -16,7 +16,7 @@ WX3NW;Een vies slot soms onder je billen beschermt mij
 52.157,4.483;Als ruwste claim ik soms wat bloed, maar zonder mij maak je geen pizza
 9E6CI;Het gereedschap van een prinses is varierend van een dolk tot een flintlock
 3B6GK;Diep in de Dari woestijn begraven, onder lagen zand
-IXRA3;Ik droeg je gewicht al tijdens het eerste kado
+IXRA3;Ik droeg je gewicht al tijdens het tweede kado
 AAZYG;Een blije kers op het internet, wat een *concept*...
 F2549;welke datum (dd-mm) is deze foto genomen?;hb.jpg
 15-08;Op de noordpool is het koud plassen, maar worden bijna nooit spullen weggegooid
